@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+  color: #bdbdbd;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 120px;
+}
+
+#pet {
+  width: 300px;          
+  opacity: 1;
+  transition: opacity 2s;
+}
+
+#estado {
+  margin-top: 25px;
+  font-size: 18px;
+  font-style: italic;
+}
